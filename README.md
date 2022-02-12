@@ -2,6 +2,7 @@
 
 ## How to Implement?
 Need to install virtualenv, pandas, dash
+
     $ git clone https://github.com/hanwoolsky/covid19.git
     $ virtualenv env
     $ source env/bin/activate
@@ -29,4 +30,5 @@ Need to install virtualenv, pandas, dash
 
 ## Reference
 > Data Source - https://github.com/CSSEGISandData/COVID-19
+
 > Dash Tutorial - https://dash.plotly.com/
