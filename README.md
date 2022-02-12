@@ -1,4 +1,4 @@
-# covid19
+# Covid19 Dashboard
 
 ## How to Implement?
 Need to install virtualenv, pandas, dash
